@@ -1,0 +1,87 @@
+* name / size/ x / y / spriteSheet
+
+*VoidSprie
+voidSprite 16 0 0 voidSprite
+
+*grass
+grass 16 11 2 town_A
+
+*Dirt road
+dirtRoadEdge 16 4 7 town_A
+dirtRoadTurn 16 2 6 town_A
+dirtRoad 16 1 5 town_A
+
+* Roof
+frontRoofStartLeft 16 0 3 town_B
+frontRoofStartRight 16 2 3 town_B
+middleRoofStartLeft 16 0 2 town_B
+middleRoofStartRight 16 2 2 town_B
+roofConnectionLeft 16 3 1 town_B
+roofConnectionLeft_2 16 3 0 town_B
+roofConnectionRight 16 5 1 town_B
+roofConnectionRight_2 16 5 0 town_B
+frontRedRoofPoint 16 1 2 town_B
+roofConnection 16 4 0 town_B
+frontRedMiddleRoof 16 1 1 town_B
+roofSide 16 5 2 town_B
+roofSide_2 16 5 3 town_B
+	
+* Walls
+frontRightGreyWall 16 2  4 town_B
+frontLeftGreyWall 16 0 4 town_B
+frontMiddleGreywall 16 1 4 town_B
+frontMiddleGreywallNoCorss 16 4 3 town_B
+frontGreyWallNoCross 16 1 3 town_B
+
+*Doors
+greyDoor 16 8 33 town_B
+
+*player
+player_down 16 0 0 player
+player_down_1 16 1 0 player
+player_down_2 16 2 0 player
+player_side 16 0 1 player
+player_side_1 16 1 1 player
+player_side_2 16 2 1 player
+player_up 16 0 2 player
+player_up_1 16 1 2 player
+player_up_2 16 2 2 player
+player_cast 16 3 0 player
+player_cast_1 16 4 0 player
+player_cast_2 16 5 0 player
+
+*effect
+fireball 16 0 0 fireball
+
+*fire_0 32 0 0 fire
+*fire_1 32 0 1 fire
+*fire_2 32 1 0 fire
+*fire_3 32 1 1 fire
+
+
+
+
+*********UI***********
+*UI_left_top 16 0 0 UI
+*UI_top 16 1 0 UI
+*UI_right_top 16 2 0 UI
+*UI_left 16 0 1 UI
+*UI_middle 16 1 1 UI
+*UI_right 16 2 1 UI
+*UI_Left_bottem 16 0 2 UI
+*UI_bottem 16 1 2 UI
+*UI_right_bottem 16 2 2 UI
+
+*UI_left_right_top 16 3 0 UI
+*UI_left_right_middle 16 3 1 UI
+*UI_left_right_bottem 16 3 2 UI
+
+*UI_left_horizon 16 0 3 UI
+*UI_middle_horizon 16 1 3 UI
+*UI_right_horizon 16 2 3 UI
+
+*UI_square_1 16 4 0 UI
+*UI_square_2 16 4 1 UI
+*UI_square_3 16 4 2 UI
+*UI_Square_4 16 3 3 UI
+*UI_Square_5 16 4 3 UI

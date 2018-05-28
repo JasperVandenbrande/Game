@@ -1,0 +1,69 @@
+* type / name / sprite / color (/ flip / turn)
+
+void voidTile voidSprite 00000000
+
+*Dirt road
+
+dirtRoad dirtRoad dirtRoad FFE59500
+dirtRoad dirtRoadEdgeUp dirtRoadEdge FFFFA83F
+dirtRoad dirtRoadEdgeDown dirtRoadEdge FFAF742B 2 false
+dirtRoad dirtRoadEdgeRight dirtRoadEdge FF7F541F 1 true
+dirtRoad dirtRoadEdgeLeft dirtRoadEdge FF3F2A0F 0 true
+dirtRoad dirtRoadTurnNW dirtRoadTurn FFFF9F32
+dirtRoad dirtRoadTurnNE dirtRoadTurn FFE54E01 1 false
+dirtRoad dirtRoadTurnSE dirtRoadTurn FFE54E00 3 false
+dirtRoad dirtRoadTurnSW dirtRoadTurn FFE54E02 2 false
+
+*Grass
+grass grass grass FF00FF00
+
+*Red roof
+roof frontRoofStartRightRed frontRoofStartRight FFFF0001
+roof frontRoofStartLeftRed frontRoofStartLeft FFFF0100
+roof middleRoofStartRightRed middleRoofStartRight FFFF0002
+roof middleRoofStartLeftRed middleRoofStartLeft FFFF0200
+roof frontRedMiddleRoof frontRedMiddleRoof FFFE0000
+roof frontRedRoofPoint frontRedRoofPoint FFFF0000
+roof roofConnection roofConnection FFFD0000
+roof roofConnectionLeftRed roofConnectionLeft FFFF0300
+roof roofConnectionLeft_2 roofConnectionLeft_2 FFFF0400
+roof roofConnectionRigthRed roofConnectionRight FFFF0003
+roof roofConnectionRight_2 roofConnectionRight_2 FFFF0004
+roof roofSide roofSide FFFF0005
+roof roofSide_2 roofSide_2 FFFF0006
+
+*Grey wall
+wall frontRightGreyWall frontRightGreyWall FFD0D0D1
+wall frontLeftGreyWall frontLeftGreyWall FFD0D1D0
+wall frontMiddleGreywall frontMiddleGreywall FFD0D0D0
+wall frontGreyWallNoCross frontGreyWallNoCross FFD1D0D0
+wall frontMiddleGreywallNoCross frontMiddleGreywallNoCorss FFD2D0D0
+
+*Door
+door greyDoor greyDoor FF381E00
+
+
+*UI
+*UI leftTop UI_left_top FF000001
+*UI top UI_top FF000002
+*UI rightTop ui_right_top FF000003
+*UI upLeft UI_Left FF000100
+*UI middle UI_middle FF000200 
+*UI upright UI_right FF000300
+*UI leftBottem UI_Left_bottem FF010000
+*UI bottem UI_bottem FF020000
+*UI rightBottem UI_right_bottem FF030000
+
+*UI leftRightTop UI_left_right_top FF010001
+*UI leftRight UI_Left_right_middle FF010002	
+*UI leftRightBottem UI_Left_right_bottem FF010003
+
+*UI leftHorizon UI_Left_Horizon FF010004
+*UI middleHorizon UI_middle_Horizon FF010005
+*UI rightHorizon UI_right_Horizon FF010006
+
+*UI square1 UI_Square_1 FF010007
+*UI square2 UI_Square_2 FF010008
+*UI square3 UI_Square_3 FF010009
+*UI square4 UI_Square_4 FF010010
+*UI square5 UI_Square_5 FF010011

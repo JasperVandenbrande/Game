@@ -1,0 +1,17 @@
+* Name / path
+
+*Town Sheets
+town_A /textures/tiles/town_tiles/town_A.png 256
+town_B /textures/tiles/town_tiles/town_B.png 592
+town_C /textures/tiles/town_tiles/town_C.png 336
+town_D /textures/tiles/town_tiles/town_D.png 448
+voidSprite /textures/tiles/void/voidSprite.png 16
+
+*Player Sheet
+player /textures/mob/player/wizard.png 128
+
+*Effects
+fireball /textures/projectiles/fireball.png 32
+
+*UI
+*UI /textures/UI/Windows/_sheet_window_19
