@@ -1,5 +1,0 @@
-Licence: the GameDevMarket licence applies here
-
-You may use this content in free or commercial works,
-You may not distribute derivatives of this material (aka edit the assets and resell / include them openly in a template or tutorial)
-Contact: henriquelazarini@gmail.com
